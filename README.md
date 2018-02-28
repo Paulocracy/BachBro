@@ -4,7 +4,8 @@
 ## 1. Introduction
 BachBro is a set of free and open-source tools for musicians
 and music researches which lack in most other common music programs. All tools are
-provided in a single graphical user interface.
+provided in a single graphical user interface. BachBro is written in Python 3.
+For Windows, binaries are availabe at the [releases](https://github.com/Paulocracy/BachBro/releases).
 
  An additional music data editor, which works in a modern web browser, is also
 provided.
