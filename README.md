@@ -62,8 +62,8 @@ the data editor in the section "BachBro data editor".
 
 ## 5. Licensing
 BachBro is free and open-source.
-* Read [LICENSE.txt](./LICENSE.txt) for BachBro's program license.
+* Read [LICENSE](./LICENSE) for BachBro's program license.
 * Read [NOTICE.txt](./NOTICE.txt) for additional license information, i.e. the licensing of the
   external projects which are used by BachBro.
-* Read the chapter [Addendum: GNU Free Documentation License" in BachBro's manual](./docs/manual.html#license)
+* Read the chapter "Addendum: GNU Free Documentation License" in [BachBro's manual](./docs/manual.html)
   in order to read the license of BachBro's manual.
