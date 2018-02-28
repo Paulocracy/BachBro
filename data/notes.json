@@ -1,0 +1,194 @@
+{
+    "C":{
+        
+        "centsToC":0,
+        "musicXMLStep":"C",
+        "musicXMLAlter":"",
+        "musicXMLAccidental":""
+        
+    },
+    "C#2":{
+        
+        "centsToC":50,
+        "musicXMLStep":"C",
+        "musicXMLAlter":"0.5",
+        "musicXMLAccidental":"quarter-sharp"
+        
+    },
+    "C#":{
+        
+        "centsToC":100,
+        "musicXMLStep":"C",
+        "musicXMLAlter":"1",
+        "musicXMLAccidental":"sharp"
+        
+    },
+    "Db2":{
+        
+        "centsToC":150,
+        "musicXMLStep":"D",
+        "musicXMLAlter":"-0.5",
+        "musicXMLAccidental":"slash-flat"
+        
+    },
+    "D":{
+        
+        "centsToC":200,
+        "musicXMLStep":"D",
+        "musicXMLAlter":"",
+        "musicXMLAccidental":""
+        
+    },
+    "D#2":{
+        
+        "centsToC":250,
+        "musicXMLStep":"D",
+        "musicXMLAlter":"0.5",
+        "musicXMLAccidental":"quarter-sharp"
+        
+    },
+    "D#":{
+        
+        "centsToC":300,
+        "musicXMLStep":"D",
+        "musicXMLAlter":"1",
+        "musicXMLAccidental":"sharp"
+        
+    },
+    "Eb2":{
+        
+        "centsToC":350,
+        "musicXMLStep":"E",
+        "musicXMLAlter":"-0.5",
+        "musicXMLAccidental":"slash-flat"
+        
+    },
+    "E":{
+        
+        "centsToC":400,
+        "musicXMLStep":"E",
+        "musicXMLAlter":"",
+        "musicXMLAccidental":""
+        
+    },
+    "E#2":{
+        
+        "centsToC":450,
+        "musicXMLStep":"E",
+        "musicXMLAlter":"0.5",
+        "musicXMLAccidental":"quarter-sharp"
+        
+    },
+    "F":{
+        
+        "centsToC":500,
+        "musicXMLStep":"F",
+        "musicXMLAlter":"",
+        "musicXMLAccidental":""
+        
+    },
+    "F#2":{
+        
+        "centsToC":550,
+        "musicXMLStep":"F",
+        "musicXMLAlter":"0.5",
+        "musicXMLAccidental":"quarter-sharp"
+        
+    },
+    "F#":{
+        
+        "centsToC":600,
+        "musicXMLStep":"F",
+        "musicXMLAlter":"1",
+        "musicXMLAccidental":"sharp"
+        
+    },
+    "Gb2":{
+        
+        "centsToC":650,
+        "musicXMLStep":"G",
+        "musicXMLAlter":"-0.5",
+        "musicXMLAccidental":"slash-flat"
+        
+    },
+    "G":{
+        
+        "centsToC":700,
+        "musicXMLStep":"G",
+        "musicXMLAlter":"",
+        "musicXMLAccidental":""
+        
+    },
+    "G#2":{
+        
+        "centsToC":750,
+        "musicXMLStep":"G",
+        "musicXMLAlter":"0.5",
+        "musicXMLAccidental":"quarter-sharp"
+        
+    },
+    "G#":{
+        
+        "centsToC":800,
+        "musicXMLStep":"G",
+        "musicXMLAlter":"1",
+        "musicXMLAccidental":"sharp"
+        
+    },
+    "Ab2":{
+        
+        "centsToC":850,
+        "musicXMLStep":"A",
+        "musicXMLAlter":"-0.5",
+        "musicXMLAccidental":"slash-flat"
+        
+    },
+    "A":{
+        
+        "centsToC":900,
+        "musicXMLStep":"A",
+        "musicXMLAlter":"",
+        "musicXMLAccidental":""
+        
+    },
+    "A#2":{
+        
+        "centsToC":950,
+        "musicXMLStep":"A",
+        "musicXMLAlter":"0.5",
+        "musicXMLAccidental":"quarter-sharp"
+        
+    },
+    "Bb":{
+        
+        "centsToC":1000,
+        "musicXMLStep":"B",
+        "musicXMLAlter":"-1",
+        "musicXMLAccidental":"flat"
+        
+    },
+    "Bb2":{
+        
+        "centsToC":1050,
+        "musicXMLStep":"B",
+        "musicXMLAlter":"-0.5",
+        "musicXMLAccidental":"slash-flat"
+        
+    },
+    "B":{
+        
+        "centsToC":1100,
+        "musicXMLStep":"B",
+        "musicXMLAlter":"",
+        "musicXMLAccidental":""
+        
+    },
+    "B#2":{
+        
+        "centsToC":1150,
+        "musicXMLStep":"B",
+        "musicXMLAlter":"0.5",
+        "musicXMLAccidental":"quarter-sharp"
+        
+    }
+}

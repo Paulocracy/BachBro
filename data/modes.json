@@ -1,0 +1,47 @@
+{
+    "C Major/a Minor":{
+        "numberSharps":0
+    },
+    "G Major/e Minor":{
+        "numberSharps":1
+    },
+    "D Major/b Minor":{
+        "numberSharps":2
+    },
+    "A Major/f# Minor":{
+        "numberSharps":3
+    },
+    "E Major/c# Minor":{
+        "numberSharps":4
+    },
+    "B Major/g# Minor":{
+        "numberSharps":5
+    },
+    "F# Major/eb Minor":{
+        "numberSharps":6
+    },
+    "C# Major":{
+        "numberSharps":7
+    },
+    "Cb Major":{
+        "numberSharps":-7
+    },
+    "Gb Major/d# Minor":{
+        "numberSharps":-6
+    },
+    "Db Major/bb Minor":{
+        "numberSharps":-5
+    },
+    "Ab Major/f Minor":{
+        "numberSharps":-4
+    },
+    "Eb Major/c Minor":{
+        "numberSharps":-3
+    },
+    "Bb Major/g Minor":{
+        "numberSharps":-2
+    },
+    "F Major/d Minor":{
+        "numberSharps":-1
+    }
+}

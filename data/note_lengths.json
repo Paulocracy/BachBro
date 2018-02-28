@@ -1,0 +1,57 @@
+{
+    "16th":{
+        "divisions":4,
+        "musicXMLType":"16th",
+        "musicXMLAddition":"",
+        "calculatorSymbol":"1/16"
+    },
+    "dotted 16th":{
+        "divisions":6,
+        "musicXMLType":"16th",
+        "musicXMLAddition":"dot",
+        "calculatorSymbol":"1/16·"
+    },
+    "eighth":{
+        "divisions":8,
+        "musicXMLType":"eighth",
+        "musicXMLAddition":"",
+        "calculatorSymbol":"1/8"
+    },
+    "dotted eighth":{
+        "divisions":12,
+        "musicXMLType":"eighth",
+        "musicXMLAddition":"dot",
+        "calculatorSymbol":"1/8·"
+    },
+    "quarter":{
+        "divisions":16,
+        "musicXMLType":"quarter",
+        "musicXMLAddition":"",
+        "calculatorSymbol":"1/4"
+    },
+    "dotted quarter":{
+        "divisions":24,
+        "musicXMLType":"quarter",
+        "musicXMLAddition":"dot",
+        "calculatorSymbol":"1/8·",
+        "calculatorSymbol":"1/4·"
+    },
+    "half":{
+        "divisions":32,
+        "musicXMLType":"half",
+        "musicXMLAddition":"",
+        "calculatorSymbol":"1/2"
+    },
+    "dotted half":{
+        "divisions":48,
+        "musicXMLType":"half",
+        "musicXMLAddition":"dot",
+        "calculatorSymbol":"1/2·"
+    },
+    "whole":{
+        "divisions":64,
+        "musicXMLType":"whole",
+        "musicXMLAddition":"",
+        "calculatorSymbol":"1/1"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "Violin clef":{
+        "sign":"G",
+        "line":2,
+        "octave_change":0
+    },
+    "Violins8 clef":{
+        "sign":"G",
+        "line":2,
+        "octave_change":1
+    },
+    "Violinb8 clef":{
+        "sign":"G",
+        "line":2,
+        "octave_change":-1
+    },
+    "Viola clef":{
+        "sign":"C",
+        "line":3,
+        "octave_change":0
+    },
+    "Bass clef":{
+        "sign":"F",
+        "line":4,
+        "octave_change":0
+    }
+}

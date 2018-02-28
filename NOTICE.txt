@@ -1,0 +1,22 @@
+You can find more information about all projects and standards that
+are used by BachBro by looking up the information via
+the "Help" cascade of BachBro GUI's menu.
+
+The BachBro binaries were created with the help of PyInstaller.
+PyInstaller's website is (as of November 2016) http://www.pyinstaller.org/
+
+BachBro is (except of the data editor) written in Python 3.
+Read https://www.docs.python.org/3/license.html (Accessed on November 2016) for
+an overview of Python's license.
+
+BachBro uses tkinter as its GUI toolkit.
+Read http://www.tkinter.unpythonic.net/wiki/Tkinter (Accessed on November 2016) for
+tkinter's license.
+
+The note recognition program "aubio" is called by BachBro's
+note recognition features. You can find aubio's license there, as well as via
+the "Help" cascade of BachBro GUI's menu.
+
+The sources of the non-trivial music theory data are given in the "source" property
+of the JSON file entries, and displayed in the corresponding text fields
+in BachBro GUI's "View Scales/Chords" tab.

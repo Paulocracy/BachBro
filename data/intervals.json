@@ -1,0 +1,74 @@
+{
+    "50":{
+        "cents":50
+    },
+    "minor second":{
+        "cents":100
+    },
+    "150":{
+        "cents":150
+    },
+    "major second":{
+        "cents":200
+    },
+    "250":{
+        "cents":250
+    },
+    "minor third":{
+        "cents":300
+    },
+    "350":{
+        "cents":350
+    },
+    "major third":{
+        "cents":400
+    },
+    "450":{
+        "cents":450
+    },
+    "perfect fourth":{
+        "cents":500
+    },
+    "550":{
+        "cents":550
+    },
+    "tritone":{
+        "cents":600
+    },
+    "650":{
+        "cents":650
+    },
+    "perfect fifth":{
+        "cents":700
+    },
+    "750":{
+        "cents":750
+    },
+    "minor sixth":{
+        "cents":800
+    },
+    "850":{
+        "cents":850
+    },
+    "major sixth":{
+        "cents":900
+    },
+    "950":{
+        "cents":950
+    },
+    "minor seventh":{
+        "cents":1000
+    },
+    "1050":{
+        "cents":1050
+    },
+    "major seventh":{
+        "cents":1100
+    },
+    "1150":{
+        "cents":1150
+    },
+    "perfect octave":{
+        "cents":1200
+    }
+}

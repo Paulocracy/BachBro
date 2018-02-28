@@ -1,0 +1,26 @@
+{
+    "Western classical":{
+        "weakConsonantIntervals":["minor third", "major third", "minor sixth", "major sixth"],
+        "strongConsonantIntervals":["perfect fourth", "perfect fifth", "perfect octave"],
+        "weakDissonantIntervals":["minor seventh", "major second"],
+        "strongDissonantIntervals":["minor second", "tritone", "major seventh"],
+        "rhythmFile":"",
+        "sources":["Mendel, Herrmann. 1872. Musikalisches Conversations-Lexikon. Volume 2. Article Consonanz und Dissonanz. Published by R. Oppenheim."]
+    },
+    "Western modern":{
+        "weakConsonantIntervals":["major second", "minor third", "major third", "minor sixth", "major sixth"],
+        "strongConsonantIntervals":["perfect fourth", "perfect fifth", "perfect octave"],
+        "weakDissonantIntervals":["minor seventh"],
+        "strongDissonantIntervals":["minor second", "tritone", "major seventh"],
+        "rhythmFile":"",
+        "sources":["Derived via https://www.en.wikipedia.org/wiki/Major_second (Accessed in November 2016)"]
+    },
+    "Greek folk music":{
+        "weakConsonantIntervals":["major second", "minor third", "major third", "minor sixth", "major sixth"],
+        "strongConsonantIntervals":["perfect fourth", "perfect fifth", "perfect octave"],
+        "weakDissonantIntervals":["minor seventh"],
+        "strongDissonantIntervals":["minor second", "tritone", "major seventh"],
+        "rhythmFile":"Greek_rhythms.xml",
+        "sources":["Derived via https://www.en.wikipedia.org/wiki/Major_second (Accessed in November 2016)"]
+    }
+}

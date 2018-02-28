@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<!--
+data_editor.html
+Copyright (C) 2018 Paulocracy
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>BachBro Data Editor</title>
+</head>
+<!--
+Together with data_editor.js in the "submodules" subfolder, this is
+BachBro data editor's source code.
+You need a modern web browser in order to run the data editor. E.g.,
+this editor was tested with Mozilla Firefox >=50. You have to allow
+JavaScript and pop-ups for this file within your modern web browser.
+
+In this HTML file, the basic elements "caption", "file" and "edit" are
+set. "caption" and "file" are shown, if a user chooses a BachBro
+data file. "edit" is shown, if such a file is edited.
+Most elements are generated in the JavaScript part of this program.
+
+The data files are used by BachBro. BachBro's source code
+starting point is "musician_assistant.py".
+-->
+
+<body>
+    <h1 id="caption">
+        <noscript>Turn JavaScript on to use the BachBro Data Editor</noscript>
+    </h1>
+    <input type="file" id="file" onChange="viewEditMode()" />
+    <p id="edit"></p>
+    <footer>
+        <hr/>
+        <p>
+            <i>
+                This program's manual can be found in
+                <a href="./docs/manual.html#editdata">BachBro's Manual, section "BachBro data editor"</a>.
+            </i>
+        </p>
+        <small>BachBro Data Editor (c) 2017 Paulocracy.
+            <a href="./LICENSE.txt">License</a>
+        </small>
+    </footer>
+
+    <script src="./submodules/data_editor.js"></script>
+</body>
+
+</html>

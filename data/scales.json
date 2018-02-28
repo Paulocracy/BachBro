@@ -1,0 +1,528 @@
+{
+        "Major":{
+            "notesInCentsToKeynote":[0, 200, 400, 500, 700, 900, 1100],
+            "info":[],
+            "sources":["Riemann, Hugo. 1909. Musik-Lexikon. 7th edition. Article Durtonart. Published by Max Hesses Verlag."]
+        },
+        "Melodic minor, descending":{
+            "notesInCentsToKeynote":[0, 200, 300, 500, 700, 800, 1000],
+            "info":[],
+            "sources":["Riemann, Hugo. 1909. Musik-Lexikon. 7th edition. Article Molltonart. Published by Max Hesses Verlag."]
+        },
+        "Melodic minor, ascending":{
+            "notesInCentsToKeynote":[0, 200, 300, 500, 700, 900, 1100],
+            "info":[],
+            "sources":["Riemann, Hugo. 1909. Musik-Lexikon. 7th edition. Article Molltonart. Published by Max Hesses Verlag."]
+        },
+        "Harmonic minor":{
+            "notesInCentsToKeynote":[0, 200, 300, 500, 700, 800, 1100],
+            "info":[],
+            "sources":["Riemann, Hugo. 1909. Musik-Lexikon. 7th edition. Article Molltonart. Published by Max Hesses Verlag."]
+        },
+        
+        "~~CHURCH MODES~~":{
+            "notesInCentsToKeynote":[],
+            "info":[],
+            "sources":[]
+        },
+        "Aeolian":{
+            "notesInCentsToKeynote":[0, 200, 300, 500, 700, 800, 1000],
+            "info":[],
+            "sources":["Riemann, Hugo. 1909. Musik-Lexikon. 7th edition. Article Kirchentöne. Published by Max Hesses Verlag."]
+        },
+        "Dorian":{
+            "notesInCentsToKeynote":[0, 200, 300, 500, 700, 900, 1000],
+            "info":[],
+            "sources":["Riemann, Hugo. 1909. Musik-Lexikon. 7th edition. Article Kirchentöne. Published by Max Hesses Verlag."]
+        },
+        "Ionian":{
+            "notesInCentsToKeynote":[0, 200, 400, 500, 700, 900, 1100],
+            "info":[],
+            "sources":["Riemann, Hugo. 1909. Musik-Lexikon. 7th edition. Article Kirchentöne. Published by Max Hesses Verlag."]
+        },
+        "Lydian":{
+            "notesInCentsToKeynote":[0, 200, 400, 600, 700, 900, 1100],
+            "info":[],
+            "sources":["Riemann, Hugo. 1909. Musik-Lexikon. 7th edition. Article Kirchentöne. Published by Max Hesses Verlag."]
+        },
+        "Mixolydian":{
+            "notesInCentsToKeynote":[0, 200, 400, 500, 700, 900, 1000],
+            "info":[],
+            "sources":["Riemann, Hugo. 1909. Musik-Lexikon. 7th edition. Article Kirchentöne. Published by Max Hesses Verlag."]
+        },
+        "Phrygian":{
+            "notesInCentsToKeynote":[0, 100, 300, 500, 700, 800, 1000],
+            "info":[],
+            "sources":["Riemann, Hugo. 1909. Musik-Lexikon. 7th edition. Article Kirchentöne. Published by Max Hesses Verlag."]
+        },
+        
+        "~~HEPTATONIA SECUNDA SCALES~~":{
+            "notesInCentsToKeynote":[],
+            "info":[],
+            "sources":[]
+        },
+        "Lydian b7/'Acoustic'/Mixolydic #11":{
+            "notesInCentsToKeynote":[0, 200, 400, 600, 700, 900, 1000],
+            "info":[],
+            "sources":["https://www.de.wikipedia.org/wiki/Heptatonia_Secunda (Accessed in November 2016)"]
+        },
+        "Mixolydic b6/'Hindu'":{
+            "notesInCentsToKeynote":[0, 200, 400, 500, 700, 800, 1000],
+            "info":[],
+            "sources":["https://www.de.wikipedia.org/wiki/Heptatonia_Secunda (Accessed in November 2016)"]
+        },
+        "Locrian #2 #9":{
+            "notesInCentsToKeynote":[0, 200, 300, 500, 600, 800, 1000],
+            "info":[],
+            "sources":["https://www.de.wikipedia.org/wiki/Heptatonia_Secunda (Accessed in November 2016)"]
+        },
+        "Superlocrian/'Alternated'":{
+            "notesInCentsToKeynote":[0, 100, 300, 400, 600, 900, 1000],
+            "info":[],
+            "sources":["https://www.de.wikipedia.org/wiki/Heptatonia_Secunda (Accessed in November 2016)"]
+        },
+        "Dorian b2":{
+            "notesInCentsToKeynote":[0, 100, 300, 500, 700, 900, 1000],
+            "info":[],
+            "sources":["https://www.de.wikipedia.org/wiki/Heptatonia_Secunda (Accessed in November 2016)"]
+        },
+        "Augmented Lydian":{
+            "notesInCentsToKeynote":[0, 200, 400, 600, 800, 900, 1100],
+            "info":[],
+            "sources":["https://www.de.wikipedia.org/wiki/Heptatonia_Secunda (Accessed in November 2016)"]
+        },
+        
+        "~~PENTATONIC SCALES~~":{
+            "notesInCentsToKeynote":[],
+            "info":[],
+            "sources":[]
+        },
+        "Major pentatonic":{
+            "notesInCentsToKeynote":[0, 200, 400, 700, 900],
+            "info":[],
+            "sources":["https://www.en.wikipedia.org/wiki/List_of_scales (Accessed in November 2016)"]
+        },
+        "Minor pentatonic":{
+            "notesInCentsToKeynote":[0, 300, 500, 700, 1000],
+            "info":[],
+            "sources":["https://www.en.wikipedia.org/wiki/List_of_scales (Accessed in November 2016)"]
+        },
+        "Japanese pentatonic 'ryosen'":{
+            "notesInCentsToKeynote":[0, 200, 500, 700, 900],
+            "info":[],
+            "sources":["https://www.en.wikipedia.org/wiki/Ryosen (Accessed in November 2016)"]
+        },
+        "Japanese pentatonic 'ritsusen'":{
+            "notesInCentsToKeynote":[0, 200, 500, 700, 1000],
+            "info":[],
+            "sources":["https://www.en.wikipedia.org/wiki/Ryosen (Accessed in November 2016)"]
+        },
+        
+        "~~OTHER WESTERN SCALES~~":{
+            "notesInCentsToKeynote":[],
+            "info":[],
+            "sources":[]
+        },
+        "Blues heptatonic (major)":{
+            "notesInCentsToKeynote":[0, 200, 300, 400, 700, 800, 900],
+            "info":[],
+            "sources":["https://www.en.wikipedia.org/wiki/List_of_scales (Accessed in November 2016)"]
+        },
+        "Blues hexatonic (minor)":{
+            "notesInCentsToKeynote":[0, 300, 500, 600, 700, 1000],
+            "info":[],
+            "sources":["https://www.en.wikipedia.org/wiki/List_of_scales (Accessed in November 2016)"]
+        },
+        "Blues rock-and-roll":{
+            "notesInCentsToKeynote":[0, 200, 300, 400, 500, 600, 700, 900, 1000],
+            "info":[],
+            "sources":["https://www.en.wikipedia.org/wiki/List_of_scales (Accessed in November 2016)"]
+        },
+        "Phyrigian dominant":{
+            
+            "notesInCentsToKeynote":[0, 100, 400, 500, 700, 800, 1000],
+            "info":[],
+            "sources":["https://www.en.wikipedia.org/wiki/List_of_scales (Accessed in November 2016)"]
+        },
+        "Alternated scale":{
+            
+            "notesInCentsToKeynote":[0, 100, 300, 400, 600, 800, 1000],
+            "info":[],
+            "sources":["https://www.en.wikipedia.org/wiki/List_of_scales (Accessed in November 2016)"]
+        },
+        "Locrian":{
+            
+            "notesInCentsToKeynote":[0, 100, 300, 500, 600, 800, 1000],
+            "info":[],
+            "sources":["https://www.en.wikipedia.org/wiki/List_of_scales (Accessed in November 2016)"]
+        },
+        "Whole-steps":{
+            
+            "notesInCentsToKeynote":[0, 200, 400, 600, 800, 1000],
+            "info":[],
+            "sources":["https://www.en.wikipedia.org/wiki/List_of_scales (Accessed in November 2016)"]
+        },
+        "Whole-semi-steps":{
+            
+            "notesInCentsToKeynote":[0, 200, 300, 500, 600, 800, 900, 1100],
+            "info":[],
+            "sources":["https://www.en.wikipedia.org/wiki/List_of_scales (Accessed in November 2016)"]
+        },
+        "Semi-whole-steps":{
+            
+            "notesInCentsToKeynote":[0, 100, 300, 400, 600, 700, 900, 1000],
+            "info":[],
+            "sources":["https://www.en.wikipedia.org/wiki/List_of_scales (Accessed in November 2016)"]
+        },
+        "Enigmatic":{
+            
+            "notesInCentsToKeynote":[0, 100, 300, 500, 700, 900, 1100],
+            "info":[],
+            "sources":["https://www.en.wikipedia.org/wiki/List_of_scales (Accessed in November 2016)"]
+        },
+        "Prometheus":{
+            
+            "notesInCentsToKeynote":[0, 200, 400, 600, 900, 1000],
+            "info":[],
+            "sources":["https://www.en.wikipedia.org/wiki/List_of_scales (Accessed in November 2016)"]
+        },
+        "'Algerian'":{
+            
+            "notesInCentsToKeynote":[0, 200, 300, 600, 700, 1000, 1100],
+            "info":[],
+            "sources":["https://www.en.wikipedia.org/wiki/List_of_scales (Accessed in November 2016)"]
+        },
+        "'Persian'":{
+            
+            "notesInCentsToKeynote":[0, 100, 400, 500, 600, 800, 1100],
+            "info":[],
+            "sources":["https://www.en.wikipedia.org/wiki/List_of_scales (Accessed in November 2016)"]
+        },
+        "Harmonic major":{
+            
+            "notesInCentsToKeynote":[0, 200, 400, 500, 700, 800, 1100],
+            "info":[],
+            "sources":["https://www.en.wikipedia.org/wiki/List_of_scales (Accessed in November 2016)"]
+        },
+        "Phyrigian dominant":{
+            
+            "notesInCentsToKeynote":[0, 100, 400, 500, 700, 800, 1000],
+            "info":[],
+            "sources":["https://www.en.wikipedia.org/wiki/List_of_scales (Accessed in November 2016)"]
+        },
+        "'Gypsy major'/'Hungarian'":{
+            
+            "notesInCentsToKeynote":[0, 100, 400, 500, 700, 800, 1100],
+            "info":[],
+            "sources":["Riemann, Ungarisch"]
+        },
+        "'Gypsy minor'":{
+            
+            "notesInCentsToKeynote":[0, 200, 300, 600, 700, 800, 1100],
+            "info":[],
+            "sources":["https://www.en.wikipedia.org/wiki/List_of_scales (Accessed in November 2016)"]
+        },
+        "Mi Sheberach":{
+            
+            "notesInCentsToKeynote":[0, 200, 300, 600, 700, 900, 1000],
+            "info":[],
+            "sources":["https://www.en.wikipedia.org/wiki/List_of_scales (Accessed in November 2016)"]
+        },
+        
+        "~~GREEK TRADITIONAL SCALES~~":{
+            
+            "notesInCentsToKeynote":[],
+            "info":[],
+            "sources":[]
+        },
+        "Chitzáz (Xιτζάζ)":{
+            
+            "notesInCentsToKeynote":[0, 100, 400, 500, 700, 800, 1000],
+            "info":["Regarded as major-like.",
+                    "Is very popular.",
+                    "May be Chioumagioún (Χιουμαγιούν), too."],
+            "sources":["http://www.musicheaven.gr/html/modules.php?name=News&file=article&id=3437 (Accessed in November 2016)"]
+        },
+        "Chitzazkiár (Χιτζαζκιάρ)":{
+            
+            "notesInCentsToKeynote":[0, 100, 400, 500, 700, 800, 1100],
+            "info":["Regarded as major-like.",
+                    "Is popular.",
+                    "May be descending Pireótikos (Κάθοδος Πειραιώτικος), too."],
+            "sources":["http://www.musicheaven.gr/html/modules.php?name=News&file=article&id=3437 (Accessed in November 2016)"]
+        },
+        "Chouseíni, ascending (Χουσεϊνί ανοδική)":{
+            
+            "notesInCentsToKeynote":[0, 200, 400, 500, 700, 900, 1000],
+            "info":["Regarded as major-like."],
+            "sources":["http://www.musicheaven.gr/html/modules.php?name=News&file=article&id=3437 (Accessed in November 2016)"]
+        },
+        "Chouseíni, descending (Χουσεϊνί κάθοδος)":{
+            
+            "notesInCentsToKeynote":[0, 200, 300, 500, 700, 800, 1000],
+            "info":[],
+            "sources":["http://www.musicheaven.gr/html/modules.php?name=News&file=article&id=3437 (Accessed in November 2016)"]
+        },
+        "Chouzám (Χουζάμ)":{
+            
+            "notesInCentsToKeynote":[0, 300, 400, 500, 700, 900, 1100],
+            "info":["Regarded as major-like."],
+            "sources":["http://www.musicheaven.gr/html/modules.php?name=News&file=article&id=3437 (Accessed in November 2016)"]
+        },
+        "Ipirótiko (Ηπειρώτικο)":{
+            
+            "notesInCentsToKeynote":[0, 200, 400, 700, 900],
+            "info":["Regarded as major-like.",
+                    "Pentatonic."],
+            "sources":["http://www.musicheaven.gr/html/modules.php?name=News&file=article&id=3437 (Accessed in November 2016)"]
+        },
+        "Kartsijár (Καρτσιγάρ)":{
+            
+            "notesInCentsToKeynote":[0, 200, 300, 500, 700, 800, 1100],
+            "info":[],
+            "sources":["http://www.musicheaven.gr/html/modules.php?name=News&file=article&id=3437 (Accessed in November 2016)"]
+        },
+        "Kiourdí (Κιουρντί)":{
+            
+            "notesInCentsToKeynote":[0, 200, 300, 500, 700, 900, 1000],
+            "info":["Regarded as minor-like.",
+                    "Is popular."],
+            "sources":["http://www.musicheaven.gr/html/modules.php?name=News&file=article&id=3437 (Accessed in November 2016)"]
+        },
+        "Niavéd (Nιαβέντ)":{
+            
+            "notesInCentsToKeynote":[0, 200, 300, 600, 700, 800, 1100],
+            "info":["Regarded as minor-like.",
+                    "Is popular."],
+            "sources":["http://www.musicheaven.gr/html/modules.php?name=News&file=article&id=3437 (Accessed in November 2016)"]
+        },
+        "Nikríz (Νικρίζ)":{
+            
+            "notesInCentsToKeynote":[0, 200, 300, 600, 700, 900, 1100],
+            "info":["Regarded as minor-like."],
+            "sources":["http://www.musicheaven.gr/html/modules.php?name=News&file=article&id=3437 (Accessed in November 2016)"]
+        },
+        "Nisiótiko (Νησιώτικο)":{
+            
+            "notesInCentsToKeynote":[0, 200, 300, 500, 700, 800, 1000],
+            "info":[],
+            "sources":["http://www.musicheaven.gr/html/modules.php?name=News&file=article&id=3437 (Accessed in November 2016)"]
+        },
+        "Ousák (Ουσάκ)":{
+            
+            "notesInCentsToKeynote":[0, 100, 300, 500, 700, 800, 1000],
+            "info":["Regarded as minor-like.",
+                    "Is very popular."],
+            "sources":["http://www.musicheaven.gr/html/modules.php?name=News&file=article&id=3437 (Accessed in November 2016)"]
+        },
+        "Pimenikós (Ποιμενικός)":{
+            
+            "notesInCentsToKeynote":[0, 200, 300, 600, 700, 900, 1000],
+            "info":["Regarded as minor-like."],
+            "sources":["http://www.musicheaven.gr/html/modules.php?name=News&file=article&id=3437 (Accessed in November 2016)"]
+        },
+        "Pireótikos (Πειραιώτικος)":{
+            
+            "notesInCentsToKeynote":[0, 100, 400, 600, 700, 800, 1100],
+            "info":["Regarded as major-like."],
+            "sources":["http://www.musicheaven.gr/html/modules.php?name=News&file=article&id=3437 (Accessed in November 2016)"]
+        },
+        "Rast, ascending (Ραστ ανοδική)":{
+            
+            "notesInCentsToKeynote":[0, 200, 400, 500, 700, 900, 1100],
+            "info":[],
+            "sources":["http://www.musicheaven.gr/html/modules.php?name=News&file=article&id=3437 (Accessed in November 2016)"]
+        },
+        "Rast, descending (Ραστ καθοδική)":{
+            
+            "notesInCentsToKeynote":[0, 200, 400, 500, 700, 900, 1000],
+            "info":[],
+            "sources":["http://www.musicheaven.gr/html/modules.php?name=News&file=article&id=3437 (Accessed in November 2016)"]
+        },
+        "Sambách (Σαμπάχ)":{
+            
+            "notesInCentsToKeynote":[0, 200, 300, 400, 700, 800, 1000, 1100],
+            "info":["Regarded as minor-like.",
+                    "Is popular.",
+                    "Is octatonic."],
+            "sources":["http://www.musicheaven.gr/html/modules.php?name=News&file=article&id=3437 (Accessed in November 2016)"]
+        },
+        "Seiách (Σεγκιάχ)":{
+            
+            "notesInCentsToKeynote":[0, 300, 400, 500, 700, 800, 1100],
+            "info":["Regarded as minor-like."],
+            "sources":["http://www.musicheaven.gr/html/modules.php?name=News&file=article&id=3437 (Accessed in November 2016)"]
+        },
+        "Tambachaniótikos (Ταμπαχανιώτικος)":{
+            
+            "notesInCentsToKeynote":[0, 200, 400, 500, 700, 800, 1100],
+            "info":["Regarded as major-like."],
+            "sources":["http://www.musicheaven.gr/html/modules.php?name=News&file=article&id=3437 (Accessed in November 2016)"]
+        },
+        
+        "~~ARABIC MAQAM FAMILIES~~":{
+            
+            "notesInCentsToKeynote":[],
+            "info":[],
+            "sources":["https://www.en.wikipedia.org/wiki/Arabic_maqam (Accessed in November 2016)"]
+        },
+        "Bayati":{
+            
+            "notesInCentsToKeynote":[0, 150, 300, 500, 700, 800, 1000],
+            "identifier":"",
+            "info":[],
+            "sources":["https://www.en.wikipedia.org/wiki/Arabic_maqam (Accessed in November 2016)"]
+        },
+        "Hijaz":{
+            
+            "notesInCentsToKeynote":[0, 100, 300, 500, 700, 800, 1000],
+            "identifier":"",
+            "info":[],
+            "sources":["https://www.en.wikipedia.org/wiki/Arabic_maqam (Accessed in November 2016)"]
+        },
+        "Husayni 'Ushayran":{
+            
+            "notesInCentsToKeynote":[0, 150, 300, 500, 650, 800, 1000],
+            "identifier":"",
+            "info":[],
+            "sources":["https://www.en.wikipedia.org/wiki/Arabic_maqam (Accessed in November 2016)"]
+        },
+        "Huzam":{
+            
+            "notesInCentsToKeynote":[0, 150, 350, 450, 750, 850, 1050],
+            "identifier":"",
+            "info":[],
+            "sources":["https://www.en.wikipedia.org/wiki/Arabic_maqam (Accessed in November 2016)"]
+        },
+        "Jiharkah":{
+            
+            "notesInCentsToKeynote":[0, 200, 400, 500, 700, 900, 1050],
+            "identifier":"",
+            "info":[],
+            "sources":[]
+        },
+        "Nawa Athar":{
+            
+            "notesInCentsToKeynote":[0, 200, 300, 600, 700, 800, 1100],
+            "identifier":"",
+            "info":[],
+            "sources":["https://www.en.wikipedia.org/wiki/Arabic_maqam (Accessed in November 2016)"]
+        },
+        "Rahat al-Arwah":{
+            
+            "notesInCentsToKeynote":[0, 150, 450, 550, 750, 850, 1050],
+            "identifier":"",
+            "info":[],
+            "sources":["https://www.en.wikipedia.org/wiki/Arabic_maqam (Accessed in November 2016)"]
+        },
+        "Rast":{
+            
+            "notesInCentsToKeynote":[0, 200, 350, 500, 700, 900, 1050],
+            "identifier":"",
+            "info":[],
+            "sources":["https://www.en.wikipedia.org/wiki/Arabic_maqam (Accessed in November 2016)"]
+        },
+        "Saba":{
+            
+            "notesInCentsToKeynote":[0, 150, 300, 400, 600, 700, 900],
+            "identifier":"",
+            "info":[],
+            "sources":["https://www.en.wikipedia.org/wiki/Arabic_maqam (Accessed in November 2016)"]
+        },
+        "Shad 'Araban":{
+            
+            "notesInCentsToKeynote":[0, 150, 400, 500, 700, 800, 1100],
+            "identifier":"",
+            "info":[],
+            "sources":["https://www.en.wikipedia.org/wiki/Arabic_maqam (Accessed in November 2016)"]
+        },
+        "~~WESTERN CHORDS~~":{
+            
+            "notesInCentsToKeynote":[],
+            "info":[],
+            "sources":[]
+        },
+        "Major chord":{
+            
+            "notesInCentsToKeynote":[0, 400, 700],
+            "identifier":"",
+            "info":[],
+            "sources":["Riemann, Durakkord"]
+        },
+        "Minor chord":{
+            
+            "notesInCentsToKeynote":[0, 300, 700],
+            "identifier":"",
+            "info":[],
+            "sources":["Riemann, Mollakkord"]
+        },
+        "Augmented triad chord":{
+            
+            "notesInCentsToKeynote":[0, 400, 800],
+            "identifier":"",
+            "info":[],
+            "sources":[]
+        },
+        "Diminished triad chord":{
+            
+            "notesInCentsToKeynote":[0, 300, 600],
+            "identifier":"",
+            "info":[],
+            "sources":[]
+        },
+        "Dominant seventh chord":{
+            
+            "notesInCentsToKeynote":[0, 400, 700, 1000],
+            "identifier":"",
+            "info":[],
+            "sources":["Riemann, Septimenakkord"]
+        },
+        "Augmented dominant seventh chord":{
+            
+            "notesInCentsToKeynote":[0, 400, 700, 1100],
+            "identifier":"",
+            "info":[],
+            "sources":[]
+        },
+        "Minor seventh chord":{
+            
+            "notesInCentsToKeynote":[0, 300, 700, 1000],
+            "identifier":"",
+            "info":[],
+            "sources":["Riemann, Septimenakkord"]
+        },
+        "Augmented minor seventh chord":{
+            
+            "notesInCentsToKeynote":[0, 300, 700, 1100],
+            "identifier":"",
+            "info":[],
+            "sources":[]
+        },
+        "~~CHROMATIC SCALES~~":{
+            
+            "notesInCentsToKeynote":[],
+            "info":[],
+            "sources":[]
+        },
+        "Western chromatic (no quarter tones)":{
+            
+            "notesInCentsToKeynote":[0, 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000, 1100],
+            "identifier":"",
+            "info":[],
+            "sources":[]
+        },
+        "Quarter-tone chromatic":{
+            
+            "notesInCentsToKeynote":[50, 150, 250, 350, 450, 550, 650, 750, 850, 950, 1050, 1150],
+            "identifier":"",
+            "info":[],
+            "sources":[]
+        },
+        "Total chromatic":{
+            
+            "notesInCentsToKeynote":[0, 50, 100, 150, 200, 250, 300, 350, 400, 450, 500, 550, 600, 650, 700, 750, 800, 850, 900, 950, 1000, 1050, 1100, 1150],
+            "identifier":"",
+            "info":[],
+            "sources":[]
+        }
+}

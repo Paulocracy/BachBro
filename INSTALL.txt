@@ -1,0 +1,77 @@
+1. Introduction
+You downloaded BachBro in one of the two provided ways: With
+binaries (currently .exe files for Windows, created with pyinstaller), or without.
+ In the former case, you can skip chapter 2 and proceed with chapters
+3, 4 and 5 in order to run BachBro with all of its
+functions.
+ In the latter case, you have to follow the instructions of chapter 2 in
+order to run BachBro.
+
+2. How to install the Python prerequisites (only necessary if no binary of
+   BachBro was downloaded)
+2.1 Python
+BachBro is tested and mainly programmed in Python 3.5. You have
+to install Python >=3.5 on your system in order to be able to run
+BachBro. Older Python 3 versions may work, but are untested.
+You can download Python from https://www.python.org/ (Accessed in November 2016)
+
+2.2 tkinter
+The graphical user interface uses the "tkinter" Python module. If not done yet, you have to
+install this Python module too. On Linux systems, it is very likely that your
+distribution has a package for it. On Windows systems, it is usually installed
+with the standard Python installer. If these way's didn't work, you can install
+tkinter via pip with the "pip --install tkinter" command. pip itself is aleady installed
+alongside with Python.
+
+2.3 pyaudio
+The recording from the microphone for the aubio note analysis is done with
+the help of the Python module "pyaudio". Run the pip console command
+"pip --install pyaudio" to install it.
+
+PyAudio's website is
+https://people.csail.mit.edu/hubert/pyaudio/ (Accessed in November 2016)
+
+3. aubio
+aubio is an external project which is called by BachBro in order to
+recognize notes from audio.
+ You have to install or unpack the 'aubio' package for your operating system
+or distribution. For Windows, you just have to download one of the Windows
+archives.
+ If no such package is provided for your system, you may try to compile aubio from
+its source. Read aubio's documentation for more information about it.
+ After you have installed or unpacked aubio on your system, you have to select
+aubio's "aubionotes" command (on Windows the path of the "aubionotes.exe") via
+BachBro's menu entry "Edit->Set aubio command...". Simply type in
+the correct aubionotes command (Read chapter 4 to find out how to start
+BachBro).
+ As of November 2016, aubio's website is
+https://www.aubio.org/ (Accessed in November 2016)
+
+4. An external scorewriter
+All scale/chord samples and recognized notes from audio sources are shows
+as MusicXML files. These files contain information for music scores. In
+order to be able to view MusicXMLs as as actual scores, you have (if you
+didn't do it already) to install a scorewriter.
+One free and open-source scorewriter is MuseScore. As of November 2016,
+you can find and download it under
+ https://www.musescore.org/
+You can also use any other MusicXML-compatible scorewriter of your choice.
+ After you have installed a scorewriter on your system, you have to make
+BachBro aware of it. To do it, you have to write the scorewriter's
+command (on Windows, you have to write the scorewriter's .exe) into the
+text field that you can access in MusicianAssistan's menu via
+"Edit->Set scorewriter command...".
+ As you made BachBro aware of the scorewriter, BachBro
+will open every newly generated MusicXML with the selected scorewriter.
+
+5. How to execute BachBro after the prerequisites's installation
+4.1 If a binary was downloaded
+Simply double click on the binary to run BachBro.
+
+4.2 If no binary was downloaded
+After Python, tkinter and pyaudio were installed, you can start BachBro
+in 2 ways:
+ i)  Double click on musician_assistant.py. If Python is registered to 
+     .py files, BachBro starts.
+ ii) Open your system's console in BachBro's path and run the command
+     "python musician_assistant.py".
