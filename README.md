@@ -1,6 +1,8 @@
 # BachBro - Free and open-source tools for musicians and music researchers
 (c) 2018 Paulocracy
 
+![BachBro's GUI](./docs/images/view.png)
+
 ## 1. Introduction
 BachBro is a set of free and open-source tools for musicians
 and music researches which lack in most other common music programs. All tools are
